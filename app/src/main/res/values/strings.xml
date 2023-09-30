@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Matte Mester</string>
+    <string name="overskrift">AppName</string>
+    <string name="Start_Spill">Start spill</string>
+    <string name="Om_Spill">Om spillet</string>
+    <string name="Preferanser">Preferanser</string>
+
+    <string name="knapp_en">1</string>
+    <string name="knapp_to">2</string>
+    <string name="knapp_tre">3</string>
+    <string name="knapp_fire">4</string>
+    <string name="knapp_fem">5</string>
+    <string name="knapp_seks">6</string>
+    <string name="knapp_syv">7</string>
+    <string name="knapp_atte">8</string>
+    <string name="knapp_ni">9</string>
+    <string name="knapp_null">0</string>
+    <string name="knapp_slett">C</string>
+
+    <string name="sjekkSvar">=</string>
+    <string name="SkrivInnSvar">Skriv inn svar</string>
+    <string name="antallSpørsmål">Velg antall spørsmål</string>
+    <string name="sprok">Velg språk</string>
+
+    <string-array name="antallSporsmalArray">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+    </string-array>
+
+    <string-array name="sprokArray">
+        <item>Norsk</item>
+        <item>Tysk</item>
+    </string-array>
+
+    <string name="omSpillTekstEn">
+        Matte Mester er et mattespill for både store og små. Spillet går ut på å
+        løse så mange regnestykker som du klarer. Klarer du å løse dem alle?
+    </string>
+    <string name="omSpillTekstTo">
+        Du kan starte et spill ved å trykke på "Start spill" i hovedmenyen. Trykker
+        du på "preferanser" har du også muligheten til å velge antall spørsmål du vil
+        få i et spill, samt muligheten til å skifte språk.
+    </string>
+
+    <string-array name="tilbakemeldingFeil">
+        <item>Det var desverre ikke helt riktig</item>
+        <item>Her bommet du litt. Se om du kan finne det riktige svaret!</item>
+        <item>Det var feil svar:(  Klarer du å finne det rette svaret?</item>
+        <item>Det stemmer ikke helt. Se om du klarer å løse det denne gangen!</item>
+        <item>Dette så ikke helt riktig ut. Se om du kan finne en annen løsning!</item>
+    </string-array>
+
+    <string-array name="tilbakemeldingRiktig">
+        <item>Bra jobbet! Det var riktig svar</item>
+        <item>Her klarte du å finne det riktige svaret</item>
+        <item>Det var rett svar!</item>
+        <item>Her hadde du helt rett!</item>
+        <item>Dette klarer du bra!</item>
+    </string-array>
+
+    <string name="feilDialogTittel">Feil!</string>
+    <string name="feilDialogPositive">Prøv igjen</string>
+
+    <string name="riktigDialogTittel">Riktig!</string>
+    <string name="riktigDialogPositive">Neste</string>
+
+    <string name="ferdigDialogTittel">Ferdig</string>
+    <string name="ferdigDialogMelding">Spillet er ferdig. Trykk \'Start spill\' om du vil spille et nytt spill. Du kan også velge antall spørsmål i preferanser</string>
+
+    <string name="avsluttDialogTittel">Avslutt</string>
+    <string name="avsluttDialogMelding">Er du sikker på at vil avslutte spillet?</string>
+    <string name="avsluttDialogPositiv">Nei</string>
+    <string name="avlsuttDialogNegativ">Ja</string>
+</resources>

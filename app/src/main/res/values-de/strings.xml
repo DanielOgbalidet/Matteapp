@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Mathematikmeister</string>
+    <string name="overskrift">AppName</string>
+    <string name="Start_Spill">Spiel beginnen</string>
+    <string name="Om_Spill">Über das Spiel</string>
+    <string name="Preferanser">Präferenzen</string>
+
+    <string name="knapp_en">1</string>
+    <string name="knapp_to">2</string>
+    <string name="knapp_tre">3</string>
+    <string name="knapp_fire">4</string>
+    <string name="knapp_fem">5</string>
+    <string name="knapp_seks">6</string>
+    <string name="knapp_syv">7</string>
+    <string name="knapp_atte">8</string>
+    <string name="knapp_ni">9</string>
+    <string name="knapp_null">0</string>
+    <string name="knapp_slett">C</string>
+
+    <string name="sjekkSvar">=</string>
+    <string name="SkrivInnSvar">Antwort eingeben</string>
+    <string name="antallSpørsmål">Wähle die Anzahl der Fragen aus</string>
+    <string name="sprok">Wähle deine Sprache</string>
+
+    <string-array name="antallSporsmalArray">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+    </string-array>
+
+    <string-array name="sprokArray">
+        <item>norwegisch</item>
+        <item>Deutsch</item>
+    </string-array>
+
+    <string name="omSpillTekstEn">
+        Math Mester ist ein Mathe-Spiel für Jung und Alt. Im Spiel geht es darum, so viele Berechnungen wie möglich zu lösen. Kannst du sie alle lösen?
+    </string>
+    <string name="omSpillTekstTo">
+        Sie können ein Spiel starten, indem Sie im Hauptmenü auf „Spiel starten“ klicken.
+        Wenn Sie auf „Einstellungen“ klicken, haben Sie auch die Möglichkeit,
+        die Anzahl der Fragen auszuwählen, die Ihnen in einem Spiel gestellt werden sollen, sowie die Option, die Sprache zu ändern.
+    </string>
+
+    <string-array name="tilbakemeldingFeil">
+        <item>Leider war es nicht ganz richtig</item>
+        <item>Da hast du etwas verpasst. Sehen Sie, ob Sie die richtige Antwort finden!</item>
+        <item>Es war die falsche Antwort :( Können Sie die richtige Antwort finden?</item>
+        <item>Das ist nicht ganz richtig. Sehen Sie, ob Sie es dieses Mal lösen können!</item>
+        <item>Das sah nicht ganz richtig aus. Sehen Sie, ob Sie eine andere Lösung finden können!</item>
+    </string-array>
+
+    <string-array name="tilbakemeldingRiktig">
+        <item>Gute Arbeit! Das war die richtige Antwort</item>
+        <item>Hier haben Sie die richtige Antwort gefunden</item>
+        <item>Das war die richtige Antwort!</item>
+        <item>Da hattest du absolut recht!</item>
+        <item>Das kannst du gut machen!</item>
+    </string-array>
+
+    <string name="feilDialogTittel">Fehler!</string>
+    <string name="feilDialogPositive">versuchen Sie es erneut</string>
+
+    <string name="riktigDialogTittel">Richtig!</string>
+    <string name="riktigDialogPositive">Nächste</string>
+
+    <string name="ferdigDialogTittel">Fertig</string>
+    <string name="ferdigDialogMelding">Das Spiel ist vorbei. Klicken Sie auf „Spiel starten“, wenn Sie ein neues Spiel spielen möchten. Sie können die Anzahl der Fragen auch in den Einstellungen auswählen</string>
+
+    <string name="avsluttDialogTittel">Ausfahrt</string>
+    <string name="avsluttDialogMelding">Sind Sie sicher, dass Sie das Spiel beenden möchten?</string>
+    <string name="avsluttDialogPositiv">NEIN</string>
+    <string name="avlsuttDialogNegativ">Ja</string>
+</resources>
